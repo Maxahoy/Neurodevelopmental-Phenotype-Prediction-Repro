@@ -1,5 +1,9 @@
 # Neurodevelopmental-Phenotype-Prediction
 
+Reproduction for UIUC's CS598 Spr. 2023 semester
+
+Maxwell Williams & Daniel Chen
+
 Official implementation of:
 
 <b>Neurodevelopmental Phenotype Prediction: A State-of-the-Art Deep Learning Model</b>
@@ -14,3 +18,6 @@ https://arxiv.org/abs/2211.08831
 1) Download the structural pipeline of the 3rd release of the dHCP dataset: https://biomedia.github.io/dHCP-release-notes/download.html#academic-torrent-download-recommended (once finished, a directory named <i>rel3_dhcp_anat_pipeline</i> should be downloaded, containing 783 subdirectories)
 2) Run preprocess.ipynb
 3) Run MAIN.ipynb
+
+
+
