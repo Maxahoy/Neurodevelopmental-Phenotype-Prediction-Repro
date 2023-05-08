@@ -2,7 +2,7 @@
 import os
 import random
 
-indices_type = 'birth_age'
+indices_type = 'sex'
 #or 'scan_age' or 'sex'
 input_folder = '.'
 full_file_name = indices_type + "_full.txt"
